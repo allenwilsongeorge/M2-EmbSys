@@ -63,3 +63,9 @@ Buzzer:
 
 A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
 
+OUTPUT:
+-----------------------------------------------------------------------
+![Screenshot (19)](https://user-images.githubusercontent.com/98945509/157293828-e4e81b4e-3f0a-4a77-a67e-a71a5bea56ed.png)
+
+
+![Screenshot (27)](https://user-images.githubusercontent.com/98945509/157293906-a1889fa1-794b-42c0-bffd-e844d6a522ac.png)
